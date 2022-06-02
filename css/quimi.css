@@ -1,0 +1,47 @@
+body{
+    background-image: url(../imagem/fundo.jpg); /*imagem no fundo do site*/
+    background-repeat: no-repeat;/*não repetir a imagem de fundo*/
+    background-size: cover;/*ajusta a imagem de fundo*/
+}
+H1{
+    text-align: center;
+    font-style: oblique;
+    color: rgb(153, 119, 24);
+}
+h2{
+    text-align: center;
+    color: rgb(100, 100, 100);
+    font-size: 30px;
+    font-style:italic;
+}
+#tabela{
+    border-top: 10px solid #c07441 ;/*alterar cor da borda*/
+     border-right: 10px solid #c07441;
+      border-bottom: 10px solid #c07441;
+      border-left: 10px solid #c07441;
+    border-radius: 10px;/*arredondar bordas*/
+    width: 600px;
+    text-align: center;/*centralizar texto*/
+    font-style: italic;/*alterar estilo de fonte*/
+    font-weight: bold; /*especifica o peso ou a intensidade da fonte*/
+    font-size: 25px;
+    color: #200a0f    ;
+    background-color: rgb(136, 102, 10); /*altera cor de fundo*/
+
+}
+#disel{
+    border-top: 10px solid #c07441 ;/*alterar cor da borda*/
+     border-right: 10px solid #c07441;
+      border-bottom: 10px solid #c07441;
+      border-left: 10px solid #c07441;
+    border-radius: 10px;/*arredondar bordas*/
+    width: 600px;
+    text-align: center;/*centralizar texto*/
+    font-style: italic;/*alterar estilo de fonte*/
+    font-weight: bold; /*especifica o peso ou a intensidade da fonte*/
+    font-size: 25px;
+    color: #200a0f    ;
+    background-color: rgb(136, 102, 10); /*altera cor de fundo*/
+
+}
+
